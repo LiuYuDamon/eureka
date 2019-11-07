@@ -56,7 +56,7 @@
     </dependencyManagement>
 
     <build>
-        <finalName>docker_eureka</finalName>
+        <finalName>docker-eureka</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
